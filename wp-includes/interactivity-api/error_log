@@ -1,0 +1,16 @@
+[23-Apr-2024 21:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[23-Apr-2024 21:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[23-Apr-2024 21:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/interactivity-api.php on line 73
+[23-Apr-2024 21:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/interactivity-api/interactivity-api.php on line 73

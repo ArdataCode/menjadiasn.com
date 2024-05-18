@@ -1,0 +1,8 @@
+[23-Apr-2024 21:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/landingu/menjadiasn.com/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/html-api/class-wp-html-processor.php on line 139
+[23-Apr-2024 21:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/landingu/menjadiasn.com/wp-includes/html-api/class-wp-html-processor.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/html-api/class-wp-html-processor.php on line 139

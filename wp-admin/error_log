@@ -1,0 +1,11 @@
+[21-Feb-2024 03:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/menjadiasn.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/menjadiasn.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/menjadiasn.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/menjadiasn.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/menjadiasn.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/menjadiasn.com/wp-includes/user.php(2662): wp_mail()
+#5 /home/landingu/menjadiasn.com/wp-admin/includes/user.php(233): wp_update_user()
+#6 /home/landingu/menjadiasn.com/wp-admin/user-edit.php(170): edit_user()
+#7 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/PHPMailer/PHPMailer.php on line 874

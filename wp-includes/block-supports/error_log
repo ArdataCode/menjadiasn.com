@@ -1,0 +1,80 @@
+[23-Apr-2024 21:26:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/background.php on line 131
+[23-Apr-2024 21:26:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/background.php on line 131
+[23-Apr-2024 21:26:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/border.php on line 170
+[23-Apr-2024 21:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/border.php on line 170
+[23-Apr-2024 21:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/dimensions.php on line 164
+[23-Apr-2024 21:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/dimensions.php on line 164
+[23-Apr-2024 21:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/duotone.php on line 36
+[23-Apr-2024 21:26:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/duotone.php on line 36
+[23-Apr-2024 21:26:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/elements.php on line 231
+[23-Apr-2024 21:26:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/elements.php on line 231
+[23-Apr-2024 21:26:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/layout.php on line 855
+[23-Apr-2024 21:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/layout.php on line 855
+[23-Apr-2024 21:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/position.php on line 145
+[23-Apr-2024 21:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/position.php on line 145
+[23-Apr-2024 21:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/settings.php on line 151
+[23-Apr-2024 21:26:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/landingu/menjadiasn.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/settings.php on line 151
+[23-Apr-2024 21:26:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/shadow.php on line 75
+[23-Apr-2024 21:26:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/shadow.php on line 75
+[23-Apr-2024 21:26:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/spacing.php on line 83
+[23-Apr-2024 21:26:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/landingu/menjadiasn.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/menjadiasn.com/wp-includes/block-supports/spacing.php on line 83
